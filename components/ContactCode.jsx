@@ -1,4 +1,4 @@
-import styles from '../styles/ContactCode.module.css';
+import styles from "../styles/ContactCode.module.css";
 
 const ContactCode = () => {
   return (
@@ -7,96 +7,96 @@ const ContactCode = () => {
         <span className={styles.className}>.socials</span> &#123;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;website:{' '}
-        <a href="https://nitinranganath.me" target="_blank" rel="noopener">
-          nitinranganath.me
+        &nbsp;&nbsp;&nbsp;website:{" "}
+        <a href="https://KevinOwens III.me" target="_blank" rel="noopener">
+          KevinOwens III.me
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;email:{' '}
+        &nbsp;&nbsp;&nbsp;email:{" "}
         <a
-          href="mailto:nitinranganath@gmail.com"
+          href="mailto:KevinOwens III@gmail.com"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath@gmail.com
+          KevinOwens III@gmail.com
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;github:{' '}
-        <a href="https://github.com/itsnitinr" target="_blank" rel="noopener">
-          itsnitinr
+        &nbsp;&nbsp;&nbsp;github:{" "}
+        <a href="https://github.com/itsKevinr" target="_blank" rel="noopener">
+          itsKevinr
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;linkedin:{' '}
+        &nbsp;&nbsp;&nbsp;linkedin:{" "}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="https://www.linkedin.com/in/KevinOwens III/"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          KevinOwens III
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;twitter:{' '}
+        &nbsp;&nbsp;&nbsp;twitter:{" "}
         <a
-          href="https://www.twitter.com/iamnitinr"
+          href="https://www.twitter.com/iamKevinr"
           target="_blank"
           rel="noopener"
         >
-          iamnitinr
+          iamKevinr
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;instagram:{' '}
+        &nbsp;&nbsp;&nbsp;instagram:{" "}
         <a
-          href="https://www.instagram.com/iamnitinr"
+          href="https://www.instagram.com/iamKevinr"
           target="_blank"
           rel="noopener"
         >
-          iamnitinr
+          iamKevinr
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;polywork:{' '}
+        &nbsp;&nbsp;&nbsp;polywork:{" "}
         <a
-          href="https://www.polywork.com/nitinranganath"
+          href="https://www.polywork.com/KevinOwens III"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          KevinOwens III
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;telegram:{' '}
-        <a href="https://t.me/iamnitinr" target="_blank" rel="noopener">
-          iamnitinr
+        &nbsp;&nbsp;&nbsp;telegram:{" "}
+        <a href="https://t.me/iamKevinr" target="_blank" rel="noopener">
+          iamKevinr
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;codepen:{' '}
-        <a href="https://codepen.io/itsnitinr" target="_blank" rel="noopener">
-          nitinranganath
+        &nbsp;&nbsp;codepen:{" "}
+        <a href="https://codepen.io/itsKevinr" target="_blank" rel="noopener">
+          KevinOwens III
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;codesandbox:{' '}
+        &nbsp;&nbsp;codesandbox:{" "}
         <a
-          href="https://codesandbox.io/u/itsnitinr"
+          href="https://codesandbox.io/u/itsKevinr"
           target="_blank"
           rel="noopener"
         >
-          itsnitinr
+          itsKevinr
         </a>
         ;
       </p>
