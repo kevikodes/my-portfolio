@@ -14,3 +14,5 @@ const Tabsbar = () => {
 };
 
 export default Tabsbar;
+
+//git remote add my-github https://github.com/krowens3/my-portfolio.git
